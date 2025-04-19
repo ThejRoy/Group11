@@ -1,0 +1,500 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode,State,city,Gender,Date
+1063,1096.0,658.0,7.0,Electronics,Electronic Games,COD,Uttar Pradesh,Mathura,F,2023-01-01
+367,5729.0,64.0,14.0,Furniture,Chairs,EMI,Delhi,Delhi,M,2023-01-03
+1054,2927.0,146.0,8.0,Furniture,Bookcases,EMI,Uttar Pradesh,Mathura,M,2023-01-03
+408,2847.0,712.0,8.0,Electronics,Printers,Credit Card,Maharashtra,Mumbai,F,2023-01-03
+1237,2617.0,1151.0,4.0,Electronics,Phones,Credit Card,Madhya Pradesh,Indore,M,2023-01-04
+314,2244.0,247.0,4.0,Clothing,Trousers,Credit Card,Uttar Pradesh,Prayagraj,M,2023-01-04
+685,275.0,-275.0,4.0,Clothing,Saree,COD,Maharashtra,Pune,F,2023-01-04
+210,387.0,-213.0,5.0,Clothing,Saree,UPI,Maharashtra,Pune,F,2023-01-05
+699,50.0,-44.0,2.0,Clothing,Hankerchief,UPI,Andhra Pradesh,Hyderabad,F,2023-01-05
+669,135.0,-54.0,5.0,Clothing,Kurti,COD,Maharashtra,Pune,M,2023-01-05
+532,231.0,-190.0,9.0,Clothing,Hankerchief,COD,Maharashtra,Mumbai,M,2023-01-06
+980,2125.0,-234.0,6.0,Electronics,Printers,EMI,Gujarat,Surat,M,2023-01-07
+948,3873.0,-891.0,6.0,Electronics,Phones,Credit Card,Maharashtra,Mumbai,F,2023-01-07
+344,729.0,-492.0,5.0,Furniture,Bookcases,UPI,Maharashtra,Pune,M,2023-01-07
+1363,2188.0,1050.0,5.0,Furniture,Bookcases,Credit Card,Uttar Pradesh,Mathura,F,2023-01-09
+627,6.0,-3.0,1.0,Clothing,Hankerchief,UPI,Uttar Pradesh,Mathura,F,2023-01-09
+229,1854.0,433.0,5.0,Furniture,Bookcases,Credit Card,Uttar Pradesh,Prayagraj,F,2023-01-09
+1110,6.0,1.0,1.0,Clothing,Kurti,UPI,Maharashtra,Mumbai,F,2023-01-09
+163,2093.0,721.0,5.0,Furniture,Chairs,Credit Card,Gujarat,Ahmedabad,M,2023-01-10
+1593,7.0,-1.0,2.0,Clothing,Skirt,UPI,Bihar,Patna,M,2023-01-10
+122,1622.0,-624.0,5.0,Furniture,Tables,Credit Card,Himachal Pradesh,Simla,M,2023-01-11
+73,1622.0,95.0,5.0,Electronics,Printers,Credit Card,Uttar Pradesh,Mathura,F,2023-01-11
+173,373.0,254.0,6.0,Electronics,Printers,UPI,Himachal Pradesh,Simla,F,2023-01-11
+1042,82.0,-33.0,4.0,Clothing,Kurti,COD,Punjab,Chandigarh,M,2023-01-12
+1152,8.0,2.0,2.0,Clothing,Skirt,UPI,Madhya Pradesh,Bhopal,F,2023-01-12
+497,1954.0,782.0,3.0,Electronics,Phones,Credit Card,Kerala ,Thiruvananthapuram,M,2023-01-12
+1543,1543.0,370.0,8.0,Electronics,Printers,Credit Card,Maharashtra,Mumbai,F,2023-01-13
+679,1506.0,-266.0,6.0,Electronics,Printers,Credit Card,Nagaland,Kohima,M,2023-01-13
+647,1829.0,-56.0,6.0,Furniture,Tables,Credit Card,Madhya Pradesh,Indore,F,2023-01-14
+1368,9.0,-1.0,3.0,Clothing,Skirt,UPI,Madhya Pradesh,Bhopal,M,2023-01-15
+1147,1461.0,202.0,5.0,Furniture,Tables,EMI,Madhya Pradesh,Indore,F,2023-01-15
+1025,391.0,113.0,8.0,Clothing,Stole,COD,Maharashtra,Pune,F,2023-01-17
+301,1824.0,1303.0,8.0,Electronics,Phones,Credit Card,Delhi,Delhi,M,2023-01-17
+1098,16.0,-15.0,4.0,Clothing,Hankerchief,UPI,Madhya Pradesh,Indore,M,2023-01-17
+953,1745.0,122.0,2.0,Furniture,Tables,Credit Card,Haryana,Chandigarh,M,2023-01-18
+169,663.0,-212.0,5.0,Electronics,Printers,UPI,Rajasthan,Udaipur,F,2023-01-18
+417,10.0,-1.0,1.0,Clothing,Leggings,UPI,Karnataka,Bangalore,M,2023-01-19
+293,1630.0,802.0,5.0,Furniture,Tables,EMI,Kerala ,Thiruvananthapuram,F,2023-01-19
+1319,12.0,0.0,2.0,Clothing,Hankerchief,UPI,Madhya Pradesh,Bhopal,F,2023-01-19
+784,12.0,-7.0,2.0,Clothing,Leggings,UPI,Gujarat,Ahmedabad,F,2023-01-19
+668,1709.0,564.0,3.0,Clothing,Trousers,Credit Card,Maharashtra,Pune,M,2023-01-20
+168,12.0,3.0,1.0,Clothing,Stole,UPI,Madhya Pradesh,Indore,M,2023-01-20
+44,1625.0,-77.0,3.0,Electronics,Phones,EMI,Maharashtra,Mumbai,M,2023-01-22
+410,13.0,5.0,2.0,Clothing,Hankerchief,UPI,Uttar Pradesh,Lucknow,F,2023-01-22
+576,1361.0,980.0,3.0,Furniture,Tables,COD,Punjab,Chandigarh,M,2023-01-23
+216,1622.0,-448.0,3.0,Electronics,Phones,EMI,Maharashtra,Pune,M,2023-01-23
+969,1547.0,340.0,6.0,Electronics,Accessories,EMI,Madhya Pradesh,Indore,F,2023-01-23
+552,1657.0,460.0,4.0,Furniture,Chairs,Credit Card,Maharashtra,Pune,M,2023-01-23
+829,1603.0,0.0,9.0,Clothing,Saree,Credit Card,Tamil Nadu,Chennai,F,2023-01-23
+1519,1549.0,-439.0,4.0,Electronics,Phones,Credit Card,Madhya Pradesh,Indore,M,2023-01-25
+381,1183.0,106.0,4.0,Electronics,Printers,EMI,Maharashtra,Pune,F,2023-01-26
+1167,74.0,-123.0,8.0,Clothing,Skirt,UPI,Madhya Pradesh,Bhopal,M,2023-01-26
+1028,1499.0,239.0,13.0,Clothing,Saree,Credit Card,West Bengal,Kolkata,M,2023-01-27
+1333,1120.0,199.0,6.0,Clothing,Saree,EMI,Nagaland,Kohima,M,2023-01-28
+1581,15.0,-2.0,1.0,Clothing,T-shirt,Debit Card,Madhya Pradesh,Bhopal,M,2023-01-28
+648,1487.0,624.0,3.0,Clothing,Trousers,Credit Card,Madhya Pradesh,Indore,F,2023-02-02
+1588,1118.0,206.0,2.0,Furniture,Tables,Credit Card,Delhi,Delhi,M,2023-02-02
+1399,11.0,-5.0,2.0,Clothing,Hankerchief,COD,Kerala ,Thiruvananthapuram,F,2023-02-02
+1438,15.0,4.0,1.0,Clothing,Hankerchief,Debit Card,Karnataka,Bangalore,F,2023-02-03
+94,1364.0,1864.0,5.0,Furniture,Tables,Credit Card,Jammu and Kashmir,Kashmir,F,2023-02-03
+1544,1337.0,147.0,7.0,Electronics,Printers,Credit Card,Maharashtra,Pune,F,2023-02-04
+566,15.0,2.0,1.0,Clothing,Leggings,Debit Card,Gujarat,Ahmedabad,F,2023-02-04
+774,322.0,-193.0,5.0,Electronics,Printers,UPI,Madhya Pradesh,Indore,M,2023-02-04
+366,1316.0,527.0,7.0,Electronics,Electronic Games,Credit Card,Andhra Pradesh,Hyderabad,F,2023-02-05
+228,1314.0,342.0,3.0,Furniture,Bookcases,Credit Card,Maharashtra,Pune,F,2023-02-06
+857,17.0,7.0,3.0,Clothing,Hankerchief,Debit Card,Rajasthan,Jaipur,M,2023-02-06
+397,17.0,2.0,2.0,Clothing,Skirt,Debit Card,West Bengal,Kolkata,M,2023-02-06
+1188,17.0,-12.0,5.0,Clothing,Skirt,Debit Card,Punjab,Amritsar,M,2023-02-06
+1370,1308.0,536.0,3.0,Furniture,Bookcases,Credit Card,Maharashtra,Mumbai,M,2023-02-07
+68,1076.0,-38.0,4.0,Electronics,Printers,Credit Card,Andhra Pradesh,Hyderabad,M,2023-02-07
+1523,1301.0,573.0,5.0,Electronics,Accessories,Credit Card,Bihar,Patna,M,2023-02-07
+1490,1300.0,-16.0,8.0,Electronics,Printers,Credit Card,Madhya Pradesh,Indore,F,2023-02-08
+1364,11.0,-2.0,4.0,Clothing,Hankerchief,COD,Rajasthan,Jaipur,M,2023-02-09
+1170,1298.0,65.0,9.0,Electronics,Printers,EMI,Gujarat,Surat,F,2023-02-09
+92,304.0,97.0,6.0,Clothing,Stole,UPI,Madhya Pradesh,Bhopal,F,2023-02-09
+224,1055.0,264.0,4.0,Electronics,Printers,EMI,Punjab,Chandigarh,F,2023-02-09
+1127,17.0,-13.0,4.0,Clothing,Skirt,Debit Card,Goa,Goa,F,2023-02-10
+1007,147.0,73.0,3.0,Clothing,Stole,COD,Haryana,Chandigarh,F,2023-02-10
+226,965.0,-68.0,3.0,Electronics,Printers,COD,Maharashtra,Mumbai,M,2023-02-10
+773,12.0,-2.0,3.0,Clothing,Hankerchief,COD,Haryana,Chandigarh,M,2023-02-11
+1560,14.0,-2.0,3.0,Clothing,Hankerchief,UPI,Bihar,Patna,M,2023-02-11
+1498,934.0,-916.0,7.0,Electronics,Electronic Games,COD,Madhya Pradesh,Indore,F,2023-02-11
+459,929.0,-93.0,9.0,Clothing,Saree,COD,Punjab,Chandigarh,M,2023-02-11
+326,18.0,3.0,2.0,Clothing,Hankerchief,Debit Card,Maharashtra,Mumbai,M,2023-02-11
+1130,916.0,192.0,11.0,Electronics,Phones,COD,Jammu and Kashmir,Kashmir,F,2023-02-12
+1004,76.0,-72.0,9.0,Clothing,Hankerchief,COD,Maharashtra,Pune,M,2023-02-12
+838,869.0,67.0,4.0,Furniture,Tables,COD,Maharashtra,Mumbai,F,2023-02-13
+247,112.0,24.0,3.0,Clothing,Kurti,COD,Haryana,Chandigarh,F,2023-02-13
+84,39.0,16.0,6.0,Clothing,Skirt,UPI,Madhya Pradesh,Bhopal,M,2023-02-14
+111,857.0,-274.0,2.0,Furniture,Tables,COD,Uttar Pradesh,Lucknow,F,2023-02-14
+743,828.0,230.0,2.0,Furniture,Chairs,COD,Madhya Pradesh,Indore,M,2023-02-15
+1031,1279.0,-640.0,8.0,Electronics,Printers,EMI,Madhya Pradesh,Indore,F,2023-02-15
+723,1250.0,486.0,7.0,Clothing,Saree,EMI,Maharashtra,Mumbai,F,2023-02-15
+1169,823.0,-18.0,7.0,Furniture,Chairs,COD,Madhya Pradesh,Indore,M,2023-02-16
+85,1157.0,-13.0,9.0,Furniture,Bookcases,Credit Card,Punjab,Chandigarh,M,2023-02-17
+102,126.0,-63.0,3.0,Electronics,Accessories,UPI,Madhya Pradesh,Bhopal,F,2023-02-17
+1164,1145.0,-706.0,3.0,Electronics,Phones,Credit Card,Maharashtra,Mumbai,M,2023-02-17
+825,774.0,170.0,3.0,Electronics,Accessories,COD,Rajasthan,Udaipur,M,2023-02-17
+1559,24.0,-1.0,2.0,Clothing,Hankerchief,COD,Goa,Goa,M,2023-02-18
+1526,774.0,170.0,3.0,Electronics,Accessories,COD,Rajasthan,Udaipur,F,2023-02-18
+1454,93.0,-1.0,2.0,Clothing,Hankerchief,COD,Maharashtra,Mumbai,M,2023-02-18
+593,765.0,-36.0,3.0,Electronics,Electronic Games,COD,Madhya Pradesh,Indore,M,2023-02-18
+634,762.0,101.0,6.0,Electronics,Printers,COD,Gujarat,Ahmedabad,F,2023-02-18
+1103,761.0,266.0,9.0,Electronics,Electronic Games,COD,Karnataka,Bangalore,F,2023-02-20
+209,96.0,-48.0,5.0,Clothing,Leggings,UPI,Maharashtra,Pune,M,2023-02-20
+663,1137.0,-14.0,7.0,Electronics,Printers,EMI,Madhya Pradesh,Bhopal,F,2023-02-20
+832,18.0,8.0,2.0,Clothing,Hankerchief,Debit Card,Delhi,Delhi,M,2023-02-20
+71,749.0,-307.0,7.0,Furniture,Furnishings,COD,Andhra Pradesh,Hyderabad,M,2023-02-20
+574,1120.0,199.0,6.0,Clothing,Saree,EMI,Delhi,Delhi,M,2023-02-22
+1193,744.0,119.0,6.0,Electronics,Printers,COD,Uttar Pradesh,Prayagraj,F,2023-02-23
+1318,14.0,0.0,4.0,Clothing,Hankerchief,UPI,Andhra Pradesh,Hyderabad,M,2023-02-23
+962,19.0,8.0,2.0,Clothing,Hankerchief,Debit Card,Punjab,Chandigarh,M,2023-02-24
+597,512.0,-225.0,5.0,Clothing,Saree,COD,Nagaland,Kohima,M,2023-02-24
+187,742.0,198.0,2.0,Furniture,Bookcases,COD,Madhya Pradesh,Indore,F,2023-02-25
+735,44.0,-40.0,3.0,Clothing,Stole,COD,Madhya Pradesh,Indore,M,2023-02-25
+146,1061.0,-36.0,8.0,Furniture,Bookcases,EMI,Punjab,Amritsar,M,2023-02-25
+6,19.0,-2.0,2.0,Clothing,Leggings,Debit Card,Uttar Pradesh,Lucknow,M,2023-02-25
+218,17.0,0.0,1.0,Clothing,Hankerchief,COD,Bihar,Patna,F,2023-02-25
+1328,741.0,267.0,5.0,Furniture,Bookcases,COD,West Bengal,Kolkata,F,2023-02-26
+153,735.0,-235.0,6.0,Electronics,Printers,COD,Karnataka,Bangalore,F,2023-02-26
+1075,19.0,-1.0,1.0,Clothing,Shirt,Debit Card,Delhi,Delhi,M,2023-02-26
+1176,1021.0,-48.0,4.0,Electronics,Electronic Games,EMI,Gujarat,Ahmedabad,F,2023-02-27
+724,556.0,-209.0,7.0,Clothing,Saree,COD,Maharashtra,Pune,F,2023-02-27
+313,63.0,-17.0,6.0,Clothing,Leggings,COD,Madhya Pradesh,Indore,F,2023-03-01
+400,734.0,248.0,2.0,Furniture,Chairs,COD,Madhya Pradesh,Indore,M,2023-03-01
+1436,933.0,166.0,5.0,Clothing,Saree,Credit Card,Haryana,Chandigarh,M,2023-03-01
+1546,20.0,-9.0,6.0,Clothing,Hankerchief,Debit Card,Kerala ,Thiruvananthapuram,M,2023-03-01
+794,877.0,395.0,2.0,Furniture,Bookcases,Credit Card,Maharashtra,Mumbai,F,2023-03-01
+143,719.0,303.0,6.0,Furniture,Chairs,COD,West Bengal,Kolkata,M,2023-03-02
+1477,12.0,1.0,2.0,Clothing,Hankerchief,COD,Maharashtra,Mumbai,F,2023-03-03
+450,714.0,56.0,4.0,Clothing,Saree,COD,Maharashtra,Mumbai,F,2023-03-03
+1344,50.0,-15.0,4.0,Clothing,Leggings,COD,Kerala ,Thiruvananthapuram,F,2023-03-04
+375,709.0,-100.0,5.0,Electronics,Phones,COD,Madhya Pradesh,Indore,M,2023-03-04
+305,21.0,-12.0,3.0,Clothing,Hankerchief,Debit Card,Madhya Pradesh,Indore,M,2023-03-04
+1061,693.0,254.0,6.0,Clothing,Saree,COD,Maharashtra,Mumbai,M,2023-03-04
+485,24.0,1.0,4.0,Clothing,Hankerchief,COD,Madhya Pradesh,Indore,F,2023-03-04
+1517,24.0,1.0,2.0,Clothing,Hankerchief,UPI,Maharashtra,Mumbai,F,2023-03-05
+1168,24.0,1.0,2.0,Clothing,Hankerchief,COD,Sikkim,Gangtok,M,2023-03-05
+36,21.0,10.0,1.0,Clothing,T-shirt,Debit Card,Madhya Pradesh,Indore,F,2023-03-05
+876,681.0,259.0,4.0,Furniture,Chairs,COD,Sikkim,Gangtok,F,2023-03-06
+184,674.0,-187.0,2.0,Furniture,Tables,COD,Maharashtra,Mumbai,F,2023-03-07
+954,671.0,-309.0,5.0,Electronics,Electronic Games,COD,Uttar Pradesh,Mathura,M,2023-03-07
+995,646.0,-213.0,3.0,Electronics,Electronic Games,COD,Madhya Pradesh,Indore,F,2023-03-07
+1480,40.0,15.0,1.0,Clothing,Kurti,COD,Delhi,Delhi,F,2023-03-07
+1253,24.0,-2.0,2.0,Clothing,T-shirt,COD,Karnataka,Bangalore,M,2023-03-07
+152,644.0,167.0,2.0,Electronics,Printers,COD,Gujarat,Ahmedabad,F,2023-03-08
+761,643.0,225.0,2.0,Electronics,Printers,COD,Rajasthan,Udaipur,F,2023-03-08
+792,632.0,-316.0,6.0,Clothing,Saree,COD,Goa,Goa,F,2023-03-08
+1522,632.0,316.0,6.0,Clothing,Saree,COD,Himachal Pradesh,Simla,F,2023-03-08
+1579,610.0,208.0,3.0,Electronics,Printers,COD,Punjab,Amritsar,F,2023-03-09
+582,78.0,-28.0,6.0,Clothing,Kurti,UPI,Andhra Pradesh,Hyderabad,M,2023-03-09
+730,595.0,119.0,4.0,Furniture,Bookcases,COD,Haryana,Chandigarh,M,2023-03-09
+904,595.0,292.0,3.0,Clothing,Saree,COD,Maharashtra,Mumbai,M,2023-03-09
+1106,852.0,51.0,5.0,Furniture,Bookcases,Credit Card,Maharashtra,Mumbai,M,2023-03-09
+970,594.0,89.0,3.0,Furniture,Bookcases,COD,Tamil Nadu,Chennai,M,2023-03-10
+227,585.0,175.0,13.0,Clothing,T-shirt,COD,Jammu and Kashmir,Kashmir,M,2023-03-11
+852,582.0,262.0,5.0,Furniture,Furnishings,COD,Maharashtra,Mumbai,M,2023-03-11
+886,845.0,84.0,7.0,Clothing,Saree,Credit Card,Madhya Pradesh,Bhopal,M,2023-03-12
+59,829.0,19.0,4.0,Electronics,Printers,Credit Card,Maharashtra,Mumbai,F,2023-03-12
+1331,561.0,212.0,3.0,Clothing,Saree,COD,Madhya Pradesh,Indore,F,2023-03-12
+814,771.0,-424.0,2.0,Electronics,Phones,Credit Card,Maharashtra,Pune,M,2023-03-12
+1146,765.0,8.0,6.0,Clothing,Saree,EMI,Sikkim,Gangtok,F,2023-03-13
+206,31.0,2.0,2.0,Clothing,Hankerchief,COD,Madhya Pradesh,Indore,M,2023-03-13
+423,557.0,-111.0,2.0,Electronics,Electronic Games,COD,West Bengal,Kolkata,M,2023-03-13
+1149,757.0,371.0,2.0,Electronics,Printers,Credit Card,Punjab,Chandigarh,F,2023-03-14
+628,545.0,-73.0,11.0,Electronics,Phones,COD,Jammu and Kashmir,Kashmir,F,2023-03-14
+371,1052.0,-82.0,3.0,Furniture,Bookcases,UPI,Karnataka,Bangalore,M,2023-03-15
+1353,544.0,-152.0,3.0,Furniture,Bookcases,COD,Kerala ,Thiruvananthapuram,F,2023-03-15
+188,22.0,9.0,2.0,Clothing,Leggings,Debit Card,Delhi,Delhi,F,2023-03-17
+312,757.0,371.0,2.0,Electronics,Printers,Credit Card,Madhya Pradesh,Indore,F,2023-03-18
+525,742.0,198.0,2.0,Furniture,Bookcases,Credit Card,Maharashtra,Mumbai,M,2023-03-18
+621,537.0,107.0,3.0,Clothing,Saree,COD,West Bengal,Kolkata,F,2023-03-18
+696,536.0,91.0,1.0,Clothing,Trousers,COD,Jammu and Kashmir,Kashmir,M,2023-03-19
+1352,6.0,3.0,1.0,Clothing,Hankerchief,COD,Bihar,Patna,F,2023-03-19
+1506,523.0,204.0,7.0,Clothing,Trousers,COD,Maharashtra,Pune,M,2023-03-19
+273,27.0,9.0,2.0,Clothing,T-shirt,UPI,Madhya Pradesh,Indore,M,2023-03-19
+570,516.0,392.0,8.0,Furniture,Chairs,COD,Punjab,Chandigarh,M,2023-03-19
+205,504.0,116.0,3.0,Furniture,Bookcases,COD,Rajasthan,Jaipur,F,2023-03-19
+1037,502.0,84.0,4.0,Electronics,Phones,COD,Maharashtra,Mumbai,M,2023-03-20
+764,734.0,213.0,6.0,Electronics,Electronic Games,Credit Card,Madhya Pradesh,Indore,F,2023-03-20
+870,42.0,12.0,2.0,Clothing,Kurti,COD,Bihar,Patna,M,2023-03-21
+884,29.0,11.0,4.0,Clothing,Skirt,COD,Jammu and Kashmir,Kashmir,M,2023-03-22
+1465,240.0,12.0,6.0,Clothing,Kurti,UPI,Tamil Nadu,Chennai,M,2023-03-23
+1026,496.0,-79.0,2.0,Clothing,Trousers,COD,Rajasthan,Udaipur,F,2023-03-23
+964,485.0,29.0,4.0,Electronics,Electronic Games,COD,Maharashtra,Mumbai,M,2023-03-24
+1184,31.0,-11.0,3.0,Clothing,Skirt,UPI,Nagaland,Kohima,M,2023-03-24
+1016,676.0,151.0,3.0,Electronics,Printers,Credit Card,Rajasthan,Udaipur,F,2023-03-24
+1375,23.0,8.0,2.0,Clothing,Hankerchief,Debit Card,Uttar Pradesh,Prayagraj,M,2023-03-24
+1238,13.0,3.0,2.0,Clothing,Hankerchief,COD,Jammu and Kashmir,Kashmir,F,2023-03-24
+1021,180.0,0.0,8.0,Clothing,Stole,COD,Himachal Pradesh,Simla,F,2023-03-25
+300,671.0,114.0,9.0,Electronics,Phones,Credit Card,Maharashtra,Mumbai,M,2023-03-25
+1362,22.0,11.0,3.0,Clothing,Kurti,COD,Rajasthan,Jaipur,M,2023-03-25
+1178,668.0,-31.0,3.0,Electronics,Printers,Credit Card,Uttar Pradesh,Lucknow,M,2023-03-25
+1189,145.0,0.0,3.0,Clothing,Saree,UPI,Madhya Pradesh,Indore,F,2023-03-26
+690,24.0,8.0,2.0,Clothing,Skirt,Debit Card,Maharashtra,Mumbai,F,2023-03-26
+93,476.0,0.0,3.0,Furniture,Chairs,COD,Maharashtra,Mumbai,F,2023-03-26
+11,24.0,11.0,5.0,Clothing,Hankerchief,Debit Card,Sikkim,Gangtok,M,2023-03-26
+602,37.0,3.0,3.0,Clothing,Hankerchief,COD,Maharashtra,Mumbai,M,2023-03-26
+779,152.0,50.0,6.0,Clothing,Stole,UPI,Madhya Pradesh,Indore,F,2023-04-01
+1481,32.0,11.0,2.0,Clothing,Leggings,UPI,Maharashtra,Mumbai,F,2023-04-01
+1471,52.0,11.0,5.0,Clothing,Leggings,COD,Delhi,Delhi,F,2023-04-01
+138,24.0,11.0,3.0,Clothing,Hankerchief,Debit Card,Madhya Pradesh,Indore,F,2023-04-02
+244,473.0,42.0,4.0,Furniture,Chairs,COD,West Bengal,Kolkata,F,2023-04-02
+555,263.0,50.0,5.0,Clothing,Stole,COD,Maharashtra,Mumbai,M,2023-04-02
+1348,61.0,11.0,3.0,Clothing,Kurti,COD,Madhya Pradesh,Bhopal,M,2023-04-03
+1213,469.0,-459.0,3.0,Electronics,Electronic Games,COD,Gujarat,Ahmedabad,M,2023-04-03
+841,1272.0,547.0,2.0,Electronics,Phones,COD,Maharashtra,Pune,F,2023-04-03
+127,169.0,0.0,3.0,Electronics,Accessories,COD,Karnataka,Bangalore,M,2023-04-03
+157,25.0,11.0,3.0,Clothing,Leggings,Debit Card,Kerala ,Thiruvananthapuram,F,2023-04-03
+1312,457.0,-41.0,4.0,Clothing,Saree,COD,Karnataka,Bangalore,M,2023-04-04
+1019,455.0,77.0,8.0,Electronics,Accessories,COD,Karnataka,Bangalore,M,2023-04-04
+384,25.0,2.0,2.0,Clothing,Hankerchief,Debit Card,Bihar,Patna,F,2023-04-06
+1541,450.0,-90.0,3.0,Electronics,Printers,COD,Madhya Pradesh,Bhopal,F,2023-04-06
+1330,30.0,-35.0,1.0,Furniture,Chairs,COD,Jammu and Kashmir,Kashmir,M,2023-04-06
+166,659.0,-37.0,2.0,Furniture,Bookcases,Credit Card,Maharashtra,Mumbai,M,2023-04-07
+733,448.0,148.0,2.0,Electronics,Printers,COD,Rajasthan,Jaipur,F,2023-04-07
+452,446.0,53.0,3.0,Electronics,Printers,COD,Madhya Pradesh,Indore,M,2023-04-08
+222,98.0,-45.0,2.0,Furniture,Chairs,UPI,Andhra Pradesh,Hyderabad,M,2023-04-08
+1053,443.0,11.0,1.0,Clothing,Saree,COD,Goa,Goa,F,2023-04-08
+1046,427.0,-50.0,7.0,Electronics,Phones,COD,Gujarat,Surat,F,2023-04-09
+847,656.0,-36.0,2.0,Furniture,Bookcases,Credit Card,Maharashtra,Mumbai,F,2023-04-10
+1478,424.0,161.0,2.0,Clothing,Saree,COD,Maharashtra,Mumbai,F,2023-04-10
+1235,27.0,8.0,2.0,Clothing,T-shirt,Debit Card,Nagaland,Kohima,M,2023-04-11
+545,424.0,-272.0,5.0,Electronics,Phones,COD,Maharashtra,Mumbai,F,2023-04-11
+436,202.0,4.0,4.0,Clothing,Hankerchief,COD,Nagaland,Kohima,F,2023-04-12
+14,1275.0,357.0,2.0,Electronics,Phones,UPI,Madhya Pradesh,Indore,F,2023-04-12
+27,418.0,70.0,7.0,Electronics,Phones,COD,Andhra Pradesh,Hyderabad,M,2023-04-12
+960,417.0,49.0,3.0,Electronics,Electronic Games,COD,Andhra Pradesh,Hyderabad,F,2023-04-12
+1434,199.0,48.0,4.0,Clothing,Stole,UPI,West Bengal,Kolkata,F,2023-04-13
+176,385.0,-77.0,11.0,Furniture,Furnishings,UPI,Maharashtra,Mumbai,F,2023-04-13
+1191,414.0,199.0,3.0,Electronics,Phones,COD,Gujarat,Ahmedabad,M,2023-04-13
+897,97.0,-45.0,4.0,Clothing,Saree,COD,Madhya Pradesh,Indore,F,2023-04-14
+830,648.0,50.0,6.0,Electronics,Electronic Games,Credit Card,Haryana,Chandigarh,F,2023-04-15
+1451,27.0,-25.0,2.0,Clothing,Shirt,Debit Card,Maharashtra,Mumbai,F,2023-04-15
+342,27.0,12.0,1.0,Clothing,Stole,Debit Card,Karnataka,Bangalore,F,2023-04-15
+1217,27.0,1.0,1.0,Clothing,Stole,UPI,Delhi,Delhi,F,2023-04-15
+1194,413.0,-314.0,9.0,Furniture,Chairs,COD,Sikkim,Gangtok,F,2023-04-15
+1252,53.0,2.0,4.0,Clothing,Hankerchief,COD,Nagaland,Kohima,F,2023-04-16
+1182,29.0,8.0,5.0,Clothing,Hankerchief,UPI,Maharashtra,Mumbai,F,2023-04-17
+380,30.0,13.0,1.0,Clothing,T-shirt,UPI,Madhya Pradesh,Bhopal,F,2023-04-17
+1468,412.0,412.0,6.0,Clothing,Saree,COD,Delhi,Delhi,F,2023-04-17
+620,646.0,-23.0,2.0,Electronics,Printers,Credit Card,Karnataka,Bangalore,M,2023-04-17
+1380,30.0,-5.0,5.0,Clothing,Stole,UPI,Madhya Pradesh,Indore,F,2023-04-18
+1356,618.0,27.0,4.0,Furniture,Bookcases,Credit Card,Tamil Nadu,Chennai,M,2023-04-18
+57,143.0,-124.0,5.0,Clothing,Saree,UPI,Goa,Goa,M,2023-04-18
+819,31.0,1.0,2.0,Clothing,Hankerchief,UPI,Karnataka,Bangalore,M,2023-04-18
+50,409.0,86.0,3.0,Clothing,Saree,COD,Bihar,Patna,M,2023-04-18
+861,406.0,126.0,2.0,Clothing,Saree,COD,Bihar,Patna,M,2023-04-19
+839,565.0,66.0,7.0,Clothing,Saree,Credit Card,Rajasthan,Jaipur,M,2023-04-19
+888,85.0,2.0,6.0,Clothing,Stole,COD,Uttar Pradesh,Lucknow,M,2023-04-20
+266,561.0,118.0,5.0,Furniture,Bookcases,Credit Card,Maharashtra,Mumbai,M,2023-04-20
+1222,503.0,-56.0,2.0,Clothing,Trousers,COD,Jammu and Kashmir,Kashmir,F,2023-04-21
+208,31.0,14.0,3.0,Clothing,Stole,UPI,Himachal Pradesh,Simla,F,2023-04-21
+182,398.0,111.0,8.0,Clothing,Hankerchief,COD,Nagaland,Kohima,F,2023-04-22
+386,388.0,93.0,2.0,Furniture,Bookcases,COD,Delhi,Delhi,M,2023-04-22
+370,498.0,-116.0,4.0,Clothing,Saree,UPI,West Bengal,Kolkata,M,2023-04-23
+379,561.0,212.0,3.0,Clothing,Saree,Credit Card,Delhi,Delhi,M,2023-04-23
+258,61.0,3.0,4.0,Clothing,Hankerchief,COD,Karnataka,Bangalore,M,2023-04-24
+549,34.0,-22.0,4.0,Clothing,T-shirt,COD,Madhya Pradesh,Indore,M,2023-04-24
+1226,32.0,6.0,3.0,Clothing,Shirt,UPI,Maharashtra,Pune,F,2023-04-25
+1428,623.0,-192.0,3.0,Furniture,Tables,UPI,Gujarat,Ahmedabad,M,2023-04-25
+1445,520.0,151.0,3.0,Electronics,Phones,Credit Card,Maharashtra,Mumbai,F,2023-04-26
+939,32.0,-16.0,6.0,Clothing,Saree,UPI,Uttar Pradesh,Lucknow,M,2023-04-26
+1405,32.0,-5.0,5.0,Clothing,Hankerchief,UPI,Punjab,Amritsar,F,2023-04-26
+564,510.0,234.0,6.0,Electronics,Electronic Games,EMI,Punjab,Amritsar,F,2023-04-26
+949,382.0,68.0,3.0,Clothing,Saree,COD,Sikkim,Gangtok,F,2023-04-27
+658,33.0,13.0,3.0,Clothing,Leggings,UPI,Delhi,Delhi,M,2023-04-27
+1071,381.0,-13.0,2.0,Clothing,Saree,COD,Madhya Pradesh,Indore,M,2023-04-27
+650,490.0,88.0,2.0,Electronics,Accessories,EMI,Maharashtra,Mumbai,M,2023-04-27
+1547,381.0,144.0,2.0,Clothing,Saree,COD,Punjab,Chandigarh,M,2023-04-27
+329,487.0,143.0,4.0,Electronics,Phones,EMI,Madhya Pradesh,Indore,F,2023-04-27
+42,366.0,84.0,3.0,Furniture,Bookcases,COD,Maharashtra,Mumbai,M,2023-05-02
+718,33.0,-29.0,3.0,Clothing,Shirt,UPI,Goa,Goa,F,2023-05-02
+1509,365.0,107.0,3.0,Electronics,Phones,COD,Kerala ,Thiruvananthapuram,M,2023-05-02
+1402,207.0,-100.0,2.0,Clothing,Saree,UPI,Uttar Pradesh,Prayagraj,F,2023-05-03
+1209,359.0,-338.0,5.0,Furniture,Bookcases,COD,Karnataka,Bangalore,M,2023-05-05
+1360,351.0,-47.0,8.0,Electronics,Phones,COD,Madhya Pradesh,Indore,F,2023-05-05
+32,485.0,199.0,4.0,Clothing,Saree,EMI,Madhya Pradesh,Indore,F,2023-05-05
+211,37.0,-23.0,4.0,Clothing,Shirt,UPI,Nagaland,Kohima,M,2023-05-05
+1027,34.0,10.0,2.0,Clothing,T-shirt,Debit Card,Sikkim,Gangtok,F,2023-05-06
+490,346.0,108.0,3.0,Furniture,Chairs,COD,Madhya Pradesh,Indore,M,2023-05-06
+390,342.0,-103.0,4.0,Electronics,Electronic Games,COD,Jammu and Kashmir,Kashmir,F,2023-05-06
+1247,35.0,-8.0,2.0,Furniture,Furnishings,Debit Card,Rajasthan,Jaipur,F,2023-05-07
+1133,121.0,41.0,4.0,Clothing,Stole,UPI,Rajasthan,Jaipur,F,2023-05-07
+298,336.0,57.0,2.0,Electronics,Phones,COD,Uttar Pradesh,Lucknow,M,2023-05-07
+1077,336.0,71.0,3.0,Furniture,Bookcases,COD,Punjab,Chandigarh,M,2023-05-08
+1161,27.0,4.0,1.0,Clothing,Hankerchief,COD,Bihar,Patna,M,2023-05-08
+332,333.0,50.0,2.0,Electronics,Phones,COD,Punjab,Amritsar,F,2023-05-08
+1339,36.0,7.0,3.0,Clothing,Leggings,Debit Card,Kerala ,Thiruvananthapuram,M,2023-05-09
+1444,333.0,-15.0,3.0,Electronics,Phones,COD,Goa,Goa,M,2023-05-10
+19,327.0,114.0,4.0,Clothing,Trousers,COD,Tamil Nadu,Chennai,M,2023-05-10
+1515,18.0,6.0,3.0,Clothing,Hankerchief,UPI,Gujarat,Ahmedabad,M,2023-05-10
+932,325.0,32.0,7.0,Clothing,T-shirt,COD,Uttar Pradesh,Lucknow,F,2023-05-11
+1561,482.0,-6.0,7.0,Electronics,Electronic Games,EMI,Madhya Pradesh,Indore,F,2023-05-11
+215,465.0,-33.0,4.0,Electronics,Phones,EMI,Delhi,Delhi,M,2023-05-11
+241,40.0,-12.0,3.0,Clothing,Shirt,COD,Maharashtra,Pune,F,2023-05-12
+1039,107.0,36.0,6.0,Clothing,Stole,COD,Rajasthan,Jaipur,F,2023-05-12
+438,312.0,-312.0,7.0,Furniture,Chairs,COD,Punjab,Amritsar,F,2023-05-12
+1323,451.0,25.0,3.0,Electronics,Phones,EMI,Rajasthan,Jaipur,M,2023-05-12
+1336,312.0,62.0,1.0,Electronics,Electronic Games,COD,Haryana,Chandigarh,F,2023-05-15
+749,311.0,72.0,2.0,Furniture,Bookcases,COD,Kerala ,Thiruvananthapuram,F,2023-05-16
+1220,11.0,5.0,2.0,Clothing,Hankerchief,UPI,Madhya Pradesh,Indore,F,2023-05-16
+767,37.0,-5.0,3.0,Clothing,T-shirt,Debit Card,Madhya Pradesh,Indore,F,2023-05-16
+290,444.0,-200.0,4.0,Electronics,Phones,EMI,Sikkim,Gangtok,F,2023-05-16
+1460,434.0,26.0,11.0,Clothing,Shirt,Credit Card,Gujarat,Surat,F,2023-05-16
+632,299.0,0.0,6.0,Clothing,Stole,COD,Delhi,Delhi,M,2023-05-17
+1562,37.0,17.0,3.0,Clothing,Hankerchief,Debit Card,Nagaland,Kohima,F,2023-05-17
+1295,299.0,113.0,2.0,Furniture,Bookcases,COD,Himachal Pradesh,Simla,F,2023-05-17
+1009,298.0,74.0,2.0,Furniture,Bookcases,COD,Haryana,Chandigarh,F,2023-05-17
+808,94.0,7.0,7.0,Clothing,Leggings,UPI,West Bengal,Kolkata,M,2023-05-18
+219,296.0,225.0,11.0,Clothing,Saree,COD,Andhra Pradesh,Hyderabad,M,2023-05-18
+1508,37.0,17.0,3.0,Clothing,Hankerchief,Debit Card,Madhya Pradesh,Indore,F,2023-05-19
+213,291.0,93.0,2.0,Electronics,Printers,COD,Punjab,Amritsar,M,2023-05-19
+1148,327.0,-39.0,1.0,Electronics,Phones,COD,Maharashtra,Pune,M,2023-05-19
+1309,291.0,119.0,11.0,Clothing,Saree,COD,Madhya Pradesh,Indore,M,2023-05-19
+1177,287.0,-66.0,6.0,Clothing,Kurti,COD,Himachal Pradesh,Simla,F,2023-05-20
+1156,42.0,15.0,1.0,Electronics,Accessories,UPI,Rajasthan,Jaipur,M,2023-05-20
+278,429.0,61.0,3.0,Electronics,Electronic Games,Credit Card,Kerala ,Thiruvananthapuram,F,2023-05-21
+252,285.0,128.0,2.0,Electronics,Printers,COD,Rajasthan,Jaipur,F,2023-05-21
+453,277.0,3.0,1.0,Electronics,Electronic Games,COD,Kerala ,Thiruvananthapuram,F,2023-05-21
+8,274.0,-7.0,4.0,Electronics,Phones,COD,Gujarat,Surat,F,2023-05-21
+534,273.0,-87.0,4.0,Electronics,Phones,COD,West Bengal,Kolkata,M,2023-05-21
+1388,269.0,91.0,1.0,Electronics,Electronic Games,COD,West Bengal,Kolkata,M,2023-05-22
+1277,11.0,5.0,1.0,Clothing,Skirt,COD,Andhra Pradesh,Hyderabad,F,2023-05-22
+931,39.0,2.0,2.0,Clothing,Saree,Debit Card,Rajasthan,Jaipur,M,2023-05-22
+1225,264.0,-26.0,3.0,Clothing,Trousers,COD,Madhya Pradesh,Indore,M,2023-05-23
+1461,40.0,16.0,3.0,Clothing,Hankerchief,Debit Card,Gujarat,Ahmedabad,F,2023-05-23
+996,41.0,19.0,2.0,Clothing,T-shirt,Debit Card,Sikkim,Gangtok,M,2023-05-23
+1335,253.0,-63.0,2.0,Clothing,Saree,UPI,Kerala ,Thiruvananthapuram,M,2023-05-23
+1540,406.0,97.0,7.0,Furniture,Chairs,Credit Card,Delhi,Delhi,F,2023-05-23
+1051,32.0,7.0,3.0,Clothing,Hankerchief,COD,Maharashtra,Pune,M,2023-05-23
+795,260.0,68.0,2.0,Electronics,Printers,COD,Madhya Pradesh,Bhopal,M,2023-05-24
+333,41.0,19.0,5.0,Clothing,Hankerchief,Debit Card,Maharashtra,Mumbai,F,2023-05-25
+874,401.0,13.0,6.0,Furniture,Chairs,Credit Card,Delhi,Delhi,F,2023-05-25
+1366,382.0,30.0,3.0,Clothing,Saree,Credit Card,Uttar Pradesh,Lucknow,M,2023-05-26
+950,867.0,251.0,5.0,Electronics,Phones,COD,West Bengal,Kolkata,F,2023-05-26
+1163,43.0,0.0,3.0,Clothing,Saree,Debit Card,Karnataka,Bangalore,M,2023-05-26
+1165,43.0,-43.0,7.0,Clothing,Stole,Debit Card,Gujarat,Surat,F,2023-05-27
+592,74.0,29.0,3.0,Clothing,Stole,COD,Andhra Pradesh,Hyderabad,F,2023-05-27
+596,44.0,-26.0,3.0,Clothing,Hankerchief,Debit Card,Madhya Pradesh,Indore,M,2023-05-27
+121,259.0,-55.0,2.0,Furniture,Chairs,COD,Bihar,Patna,F,2023-05-27
+1308,257.0,23.0,5.0,Clothing,Hankerchief,COD,Nagaland,Kohima,F,2023-05-28
+577,76.0,27.0,5.0,Clothing,Stole,COD,Punjab,Chandigarh,F,2023-05-28
+1512,44.0,-32.0,3.0,Clothing,Stole,Debit Card,Gujarat,Ahmedabad,M,2023-06-01
+1137,257.0,3.0,2.0,Clothing,Saree,COD,Madhya Pradesh,Indore,M,2023-06-01
+1554,255.0,76.0,9.0,Clothing,Hankerchief,COD,Rajasthan,Udaipur,F,2023-06-02
+1100,44.0,14.0,3.0,Clothing,Hankerchief,Debit Card,Madhya Pradesh,Bhopal,M,2023-06-02
+834,45.0,-2.0,4.0,Clothing,Shirt,COD,Rajasthan,Udaipur,F,2023-06-02
+925,44.0,-3.0,1.0,Clothing,Saree,Debit Card,Goa,Goa,F,2023-06-02
+1294,382.0,119.0,2.0,Clothing,Saree,Credit Card,Andhra Pradesh,Hyderabad,F,2023-06-03
+223,250.0,100.0,3.0,Clothing,Trousers,COD,Maharashtra,Mumbai,M,2023-06-03
+879,45.0,-15.0,2.0,Furniture,Chairs,COD,Haryana,Chandigarh,M,2023-06-03
+868,246.0,61.0,2.0,Furniture,Bookcases,COD,West Bengal,Kolkata,F,2023-06-03
+421,50.0,25.0,5.0,Clothing,Stole,COD,Punjab,Chandigarh,F,2023-06-04
+1396,246.0,98.0,5.0,Clothing,Hankerchief,COD,Bihar,Patna,F,2023-06-04
+331,44.0,99.0,3.0,Clothing,Kurti,Debit Card,Maharashtra,Mumbai,F,2023-06-05
+269,245.0,-78.0,3.0,Clothing,Saree,COD,West Bengal,Kolkata,M,2023-06-05
+678,245.0,30.0,2.0,Clothing,Saree,COD,Maharashtra,Mumbai,F,2023-06-07
+1343,376.0,0.0,7.0,Clothing,Stole,Credit Card,Maharashtra,Mumbai,F,2023-06-07
+726,45.0,1.0,3.0,Clothing,T-shirt,Debit Card,West Bengal,Kolkata,F,2023-06-08
+368,45.0,-28.0,2.0,Clothing,Stole,Debit Card,Rajasthan,Udaipur,M,2023-06-08
+936,244.0,-122.0,5.0,Furniture,Furnishings,COD,Himachal Pradesh,Simla,F,2023-06-08
+1426,244.0,83.0,2.0,Furniture,Bookcases,COD,Maharashtra,Pune,F,2023-06-08
+958,10.0,4.0,1.0,Clothing,Kurti,UPI,Bihar,Patna,M,2023-06-09
+756,375.0,180.0,3.0,Furniture,Bookcases,Credit Card,Kerala ,Thiruvananthapuram,F,2023-06-10
+1003,46.0,14.0,5.0,Clothing,Skirt,Debit Card,Maharashtra,Mumbai,M,2023-06-11
+1386,49.0,-31.0,2.0,Clothing,Stole,UPI,Punjab,Amritsar,F,2023-06-11
+1582,47.0,-20.0,2.0,Clothing,Kurti,Debit Card,Madhya Pradesh,Indore,F,2023-06-11
+89,355.0,-114.0,7.0,Clothing,Stole,Credit Card,Rajasthan,Jaipur,M,2023-06-11
+139,32.0,8.0,5.0,Clothing,Hankerchief,UPI,Gujarat,Surat,F,2023-06-13
+1492,243.0,-14.0,2.0,Furniture,Chairs,COD,Gujarat,Surat,M,2023-06-13
+295,241.0,-77.0,4.0,Electronics,Electronic Games,COD,Madhya Pradesh,Indore,M,2023-06-13
+704,47.0,15.0,5.0,Clothing,Saree,Debit Card,Goa,Goa,M,2023-06-14
+1211,50.0,-10.0,6.0,Clothing,Skirt,Debit Card,Rajasthan,Udaipur,F,2023-06-14
+1017,15.0,6.0,2.0,Clothing,Hankerchief,COD,Maharashtra,Mumbai,F,2023-06-15
+585,148.0,24.0,3.0,Clothing,Stole,COD,Tamil Nadu,Chennai,M,2023-06-16
+1096,299.0,-28.0,3.0,Electronics,Electronic Games,UPI,Jammu and Kashmir,Kashmir,F,2023-06-16
+1212,68.0,-30.0,1.0,Electronics,Phones,UPI,Uttar Pradesh,Lucknow,M,2023-06-17
+1390,52.0,18.0,5.0,Clothing,Leggings,Debit Card,Madhya Pradesh,Indore,M,2023-06-17
+1099,239.0,-162.0,5.0,Furniture,Chairs,COD,Rajasthan,Udaipur,M,2023-06-17
+150,27.0,6.0,3.0,Clothing,Skirt,COD,Madhya Pradesh,Indore,M,2023-06-17
+12,238.0,20.0,2.0,Clothing,Saree,COD,Delhi,Delhi,M,2023-06-18
+1068,48.0,16.0,3.0,Clothing,Shirt,COD,Delhi,Delhi,M,2023-06-19
+878,66.0,22.0,3.0,Clothing,Stole,UPI,Madhya Pradesh,Indore,M,2023-06-19
+643,53.0,24.0,1.0,Clothing,Hankerchief,Debit Card,Madhya Pradesh,Bhopal,M,2023-06-20
+1283,233.0,-10.0,5.0,Electronics,Electronic Games,COD,Maharashtra,Mumbai,F,2023-06-20
+296,53.0,-2.0,3.0,Clothing,Saree,Debit Card,Maharashtra,Mumbai,F,2023-06-20
+579,54.0,8.0,4.0,Clothing,T-shirt,Debit Card,Madhya Pradesh,Bhopal,F,2023-06-21
+817,352.0,-345.0,5.0,Clothing,Saree,Credit Card,Uttar Pradesh,Prayagraj,F,2023-06-21
+136,349.0,0.0,7.0,Clothing,Stole,Credit Card,Uttar Pradesh,Lucknow,F,2023-06-21
+1499,341.0,-85.0,6.0,Clothing,Trousers,Credit Card,Uttar Pradesh,Lucknow,F,2023-06-22
+511,54.0,12.0,3.0,Clothing,Saree,Debit Card,Madhya Pradesh,Indore,M,2023-06-22
+1443,57.0,7.0,2.0,Clothing,Shirt,UPI,Gujarat,Ahmedabad,F,2023-06-22
+591,340.0,20.0,7.0,Clothing,Shirt,Credit Card,Uttar Pradesh,Lucknow,M,2023-06-22
+387,227.0,48.0,5.0,Clothing,Stole,COD,Madhya Pradesh,Indore,M,2023-06-22
+1516,330.0,81.0,1.0,Furniture,Bookcases,Credit Card,Punjab,Chandigarh,F,2023-06-23
+54,216.0,-38.0,6.0,Furniture,Furnishings,UPI,Gujarat,Ahmedabad,F,2023-06-24
+404,224.0,-143.0,3.0,Furniture,Chairs,COD,Haryana,Chandigarh,F,2023-06-24
+144,55.0,-33.0,2.0,Furniture,Chairs,Debit Card,Karnataka,Bangalore,M,2023-06-25
+682,49.0,21.0,1.0,Clothing,Stole,UPI,Maharashtra,Pune,M,2023-06-26
+537,224.0,87.0,3.0,Clothing,Trousers,COD,West Bengal,Kolkata,F,2023-06-27
+1484,223.0,27.0,2.0,Furniture,Bookcases,COD,Madhya Pradesh,Indore,M,2023-06-27
+513,324.0,39.0,8.0,Electronics,Accessories,Credit Card,Nagaland,Kohima,F,2023-06-28
+1423,56.0,18.0,2.0,Clothing,Hankerchief,Debit Card,Maharashtra,Pune,M,2023-07-02
+1507,223.0,62.0,7.0,Clothing,Shirt,COD,Madhya Pradesh,Indore,F,2023-07-03
+402,10.0,2.0,2.0,Clothing,Skirt,COD,Kerala ,Thiruvananthapuram,F,2023-07-04
+975,57.0,6.0,5.0,Clothing,Leggings,Debit Card,Gujarat,Surat,M,2023-07-04
+191,322.0,-113.0,4.0,Clothing,Saree,Credit Card,Nagaland,Kohima,F,2023-07-04
+1248,219.0,4.0,2.0,Clothing,Saree,COD,Delhi,Delhi,M,2023-07-04
+1513,103.0,21.0,7.0,Clothing,Stole,UPI,Delhi,Delhi,M,2023-07-04
+667,47.0,-27.0,4.0,Clothing,Saree,COD,Jammu and Kashmir,Kashmir,F,2023-07-05
+877,219.0,0.0,1.0,Clothing,Saree,COD,Maharashtra,Mumbai,M,2023-07-05
+235,57.0,-48.0,6.0,Clothing,Leggings,Debit Card,Maharashtra,Mumbai,M,2023-07-05
+807,319.0,102.0,6.0,Electronics,Accessories,Credit Card,Maharashtra,Mumbai,F,2023-07-07
+1395,315.0,-8.0,3.0,Furniture,Chairs,Credit Card,West Bengal,Kolkata,F,2023-07-07
+239,314.0,-41.0,3.0,Electronics,Electronic Games,Credit Card,Maharashtra,Mumbai,M,2023-07-07
+1120,311.0,40.0,1.0,Electronics,Electronic Games,EMI,Madhya Pradesh,Indore,M,2023-07-08
+69,307.0,74.0,3.0,Electronics,Accessories,EMI,Maharashtra,Mumbai,F,2023-07-10
+1091,294.0,109.0,7.0,Electronics,Accessories,EMI,Madhya Pradesh,Indore,F,2023-07-10
+1107,216.0,-83.0,3.0,Electronics,Electronic Games,COD,Delhi,Delhi,M,2023-07-10
+1029,58.0,-42.0,2.0,Furniture,Chairs,Debit Card,Sikkim,Gangtok,F,2023-07-10
+456,48.0,20.0,4.0,Clothing,Stole,UPI,Madhya Pradesh,Bhopal,F,2023-07-11
+1432,54.0,14.0,3.0,Clothing,T-shirt,UPI,Madhya Pradesh,Bhopal,M,2023-07-11
+686,216.0,50.0,4.0,Clothing,Stole,COD,Madhya Pradesh,Indore,M,2023-07-11
+680,215.0,-30.0,2.0,Clothing,Saree,COD,Rajasthan,Jaipur,M,2023-07-11
+1367,43.0,8.0,3.0,Clothing,Leggings,COD,Punjab,Chandigarh,M,2023-07-12
+580,136.0,-33.0,5.0,Clothing,Saree,COD,Himachal Pradesh,Simla,F,2023-07-13
+345,59.0,-30.0,3.0,Clothing,Leggings,Debit Card,Tamil Nadu,Chennai,M,2023-07-13
+502,213.0,4.0,14.0,Clothing,Shirt,COD,Maharashtra,Mumbai,F,2023-07-14
+660,59.0,21.0,2.0,Clothing,Stole,Debit Card,Gujarat,Ahmedabad,F,2023-07-15
+341,55.0,3.0,3.0,Clothing,T-shirt,COD,Maharashtra,Mumbai,F,2023-07-15
+698,294.0,62.0,9.0,Clothing,T-shirt,EMI,Madhya Pradesh,Indore,F,2023-07-15
+52,210.0,62.0,2.0,Electronics,Phones,COD,Madhya Pradesh,Indore,F,2023-07-15
+1518,59.0,24.0,6.0,Clothing,Kurti,Debit Card,Gujarat,Ahmedabad,M,2023-07-17
+1550,396.0,-31.0,9.0,Clothing,Saree,COD,Madhya Pradesh,Indore,M,2023-07-17
+1385,284.0,45.0,2.0,Furniture,Bookcases,EMI,Goa,Goa,M,2023-07-18
+245,276.0,52.0,5.0,Clothing,Saree,EMI,Madhya Pradesh,Indore,F,2023-07-18
+656,23.0,2.0,2.0,Clothing,Skirt,UPI,West Bengal,Kolkata,M,2023-07-19
+1320,209.0,-63.0,4.0,Electronics,Electronic Games,COD,Nagaland,Kohima,F,2023-07-19
+775,50.0,-28.0,5.0,Furniture,Furnishings,COD,Maharashtra,Mumbai,F,2023-07-20
+800,57.0,27.0,2.0,Clothing,Shirt,COD,Gujarat,Surat,F,2023-07-20
+1274,276.0,-21.0,2.0,Electronics,Phones,EMI,Himachal Pradesh,Simla,F,2023-07-21
+1576,268.0,6.0,2.0,Furniture,Bookcases,UPI,Jammu and Kashmir,Kashmir,F,2023-07-21
+674,269.0,111.0,3.0,Clothing,Trousers,EMI,Haryana,Chandigarh,F,2023-07-21
+758,209.0,2.0,1.0,Clothing,Saree,COD,Rajasthan,Udaipur,F,2023-07-21
+544,60.0,-12.0,4.0,Clothing,Hankerchief,Debit Card,Goa,Goa,F,2023-07-21
+442,269.0,-86.0,2.0,Electronics,Electronic Games,EMI,Himachal Pradesh,Simla,F,2023-07-21
+1358,208.0,-25.0,2.0,Clothing,Saree,COD,Maharashtra,Mumbai,M,2023-07-23
+716,27.0,2.0,2.0,Clothing,Leggings,UPI,Rajasthan,Jaipur,F,2023-07-24
+1299,206.0,-206.0,3.0,Clothing,Saree,COD,Madhya Pradesh,Indore,F,2023-07-25
+1045,61.0,8.0,4.0,Clothing,Hankerchief,Debit Card,Bihar,Patna,F,2023-07-25
+1262,212.0,-24.0,2.0,Furniture,Chairs,COD,Maharashtra,Mumbai,F,2023-07-25
+1589,262.0,64.0,6.0,Clothing,Saree,EMI,Kerala ,Thiruvananthapuram,M,2023-07-26
+149,204.0,276.0,3.0,Furniture,Bookcases,COD,Bihar,Patna,F,2023-07-26
+1457,59.0,-46.0,7.0,Clothing,T-shirt,UPI,Madhya Pradesh,Indore,F,2023-07-26
+1310,199.0,-18.0,2.0,Clothing,Saree,COD,Madhya Pradesh,Bhopal,M,2023-07-27
+449,59.0,6.0,1.0,Electronics,Accessories,UPI,Punjab,Chandigarh,F,2023-07-27
+429,45.0,9.0,3.0,Clothing,Leggings,UPI,Himachal Pradesh,Simla,M,2023-07-28
+813,211.0,19.0,8.0,Clothing,Stole,COD,Nagaland,Kohima,F,2023-07-28
+1151,65.0,-16.0,2.0,Electronics,Phones,Debit Card,Karnataka,Bangalore,F,2023-08-01
+902,25.0,0.0,4.0,Clothing,Skirt,UPI,Maharashtra,Pune,M,2023-08-01
+850,196.0,-7.0,5.0,Electronics,Phones,COD,Madhya Pradesh,Indore,F,2023-08-02
+101,261.0,13.0,6.0,Clothing,Shirt,Credit Card,Maharashtra,Mumbai,F,2023-08-04
+440,195.0,-117.0,5.0,Electronics,Phones,COD,Madhya Pradesh,Indore,F,2023-08-04
+1018,192.0,-146.0,3.0,Clothing,Saree,COD,Goa,Goa,M,2023-08-04
+270,189.0,87.0,7.0,Clothing,Stole,COD,Maharashtra,Mumbai,M,2023-08-04
+1565,32.0,2.0,2.0,Clothing,Kurti,UPI,Punjab,Chandigarh,M,2023-08-05
+630,188.0,13.0,7.0,Clothing,Shirt,COD,Madhya Pradesh,Bhopal,M,2023-08-06
+1545,73.0,-25.0,3.0,Clothing,Saree,COD,Madhya Pradesh,Indore,M,2023-08-07
+88,259.0,47.0,5.0,Clothing,Hankerchief,Credit Card,Madhya Pradesh,Bhopal,F,2023-08-08
+80,187.0,-15.0,3.0,Clothing,Trousers,COD,Goa,Goa,M,2023-08-08
+426,26.0,11.0,2.0,Clothing,Hankerchief,UPI,Haryana,Chandigarh,M,2023-08-09
+1233,185.0,-26.0,6.0,Furniture,Chairs,COD,Rajasthan,Jaipur,F,2023-08-09
+1400,248.0,8.0,2.0,Clothing,Saree,Credit Card,Andhra Pradesh,Hyderabad,F,2023-08-09
+1355,67.0,9.0,4.0,Clothing,Leggings,Debit Card,Karnataka,Bangalore,F,2023-08-10
+742,248.0,-70.0,3.0,Furniture,Chairs,Credit Card,Maharashtra,Mumbai,M,2023-08-11
+1549,246.0,61.0,2.0,Furniture,Bookcases,Credit Card,West Bengal,Kolkata,M,2023-08-11
+1195,179.0,-25.0,5.0,Clothing,Kurti,COD,Maharashtra,Mumbai,F,2023-08-11
+550,176.0,-28.0,5.0,Furniture,Furnishings,COD,Rajasthan,Udaipur,M,2023-08-12
+853,176.0,-13.0,5.0,Furniture,Furnishings,COD,Maharashtra,Pune,F,2023-08-12
+524,68.0,-62.0,2.0,Clothing,Trousers,Debit Card,Gujarat,Ahmedabad,M,2023-08-14
+1433,176.0,37.0,6.0,Electronics,Accessories,COD,Jammu and Kashmir,Kashmir,F,2023-08-14
+377,88.0,11.0,7.0,Clothing,Hankerchief,UPI,Bihar,Patna,M,2023-08-14
+1240,68.0,20.0,5.0,Clothing,Hankerchief,Debit Card,West Bengal,Kolkata,M,2023-08-14
+430,231.0,99.0,2.0,Electronics,Electronic Games,Credit Card,Sikkim,Gangtok,M,2023-08-16
+197,62.0,8.0,2.0,Clothing,T-shirt,UPI,Haryana,Chandigarh,F,2023-08-16
+62,175.0,77.0,3.0,Clothing,Saree,COD,Himachal Pradesh,Simla,F,2023-08-16
+1113,71.0,4.0,5.0,Clothing,Leggings,Debit Card,Karnataka,Bangalore,M,2023-08-17
+265,174.0,-70.0,3.0,Electronics,Accessories,COD,Maharashtra,Pune,F,2023-08-18
+1223,173.0,69.0,3.0,Furniture,Chairs,COD,West Bengal,Kolkata,M,2023-08-19
+1155,171.0,2.0,2.0,Electronics,Electronic Games,COD,Karnataka,Bangalore,F,2023-08-19
+114,268.0,-25.0,3.0,Clothing,Saree,COD,Andhra Pradesh,Hyderabad,F,2023-08-19
+248,71.0,32.0,3.0,Clothing,Saree,Debit Card,Rajasthan,Jaipur,M,2023-08-20
+16,29.0,10.0,4.0,Clothing,Hankerchief,UPI,Delhi,Delhi,M,2023-08-20
+1420,65.0,17.0,2.0,Clothing,T-shirt,UPI,Tamil Nadu,Chennai,F,2023-08-21
+942,72.0,-46.0,7.0,Clothing,Kurti,Debit Card,Goa,Goa,M,2023-08-21
+1010,168.0,-51.0,2.0,Furniture,Bookcases,COD,Sikkim,Gangtok,F,2023-08-21
+1485,165.0,30.0,3.0,Clothing,Stole,COD,Maharashtra,Mumbai,F,2023-08-23
+1089,74.0,-59.0,2.0,Electronics,Accessories,Debit Card,Himachal Pradesh,Simla,M,2023-08-24
